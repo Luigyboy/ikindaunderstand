@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import InputForm from './components/InputForm.tsx';
-import PlayerPairs from './components/PlayerPairs.tsx';
+import InputForm from './components/InputForm';
+import PlayerPairs from './components/PlayerPairs';
 import './styles/styles.css';
 
 interface Player {
